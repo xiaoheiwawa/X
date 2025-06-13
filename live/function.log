@@ -1,0 +1,3 @@
+2025-06-13 10:30:40,191 - ERROR - url: https://iptv.b2og.com/txt/fmml_ipv6.txt 失败❌, Error: 403, message='Forbidden', url='https://iptv.b2og.com/txt/fmml_ipv6.txt'
+2025-06-13 10:30:43,492 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
+2025-06-13 10:30:48,011 - ERROR - url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u 失败❌, Error: 404, message='Not Found', url='https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u'
