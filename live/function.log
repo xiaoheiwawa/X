@@ -1,3 +1,4 @@
-2025-06-19 10:39:26,877 - ERROR - url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u 失败❌, Error: 404, message='Not Found', url='https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u'
-2025-06-19 10:39:27,791 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
-2025-06-19 10:39:56,805 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
+2025-06-21 10:27:20,080 - ERROR - url: https://web.banye.tech:7777/tvbus/yogurtTv.txt 失败❌, Error: Cannot connect to host web.banye.tech:7777 ssl:default [None]
+2025-06-21 10:27:20,173 - ERROR - url: http://live.nctv.top/x.txt 失败❌, Error: 404, message='Not Found', url='http://live.nctv.top/x.txt'
+2025-06-21 10:27:25,587 - ERROR - url: https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u 失败❌, Error: 404, message='Not Found', url='https://codeberg.org/alfredisme/mytvsources/raw/branch/main/mylist-ipv6.m3u'
+2025-06-21 10:27:46,662 - ERROR - url: http://rihou.cc:555/gggg.nzk 失败❌, Error: Connection timeout to host http://rihou.cc:555/gggg.nzk
